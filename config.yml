@@ -1,6 +1,6 @@
 baseURL: https://ironmeld.github.io
 languageCode: en-us
-title: The Blog for ironmeld
+title: The Ironmeld Project Blog
 
 theme: cupper-hugo-theme
 
@@ -26,7 +26,7 @@ menu:
       weight: 4
 
 params:
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
+  footer: Copyright 2022 Richard R. Masters, CC0 License. Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   katex: true
@@ -35,7 +35,7 @@ params:
   showThemeSwitcher: true
   defaultDarkTheme: false
   moveFooterToHeader: false
-  logoAlt: Logo
+  logoAlt: Ironmeld Logo
 
 markup:
   tableOfContents:
